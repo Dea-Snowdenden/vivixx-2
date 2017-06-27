@@ -5,6 +5,9 @@ shopping_list = [
   {item: :flour, quanity: 1 },
   {item: :butter, quantity: 0.250 },
   {item: :tea, quantity: 50 }
+  {item: choco, quantity: 100}
+  {item: pizza, quantity: 50}
+  {item: veggies, quantity: 30}
 ]
 
 shopping_list.each do |info|
